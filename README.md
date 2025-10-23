@@ -76,8 +76,6 @@ Submit a pull request
 
 
 👨‍💻 Author
+ Name -Rahul Yadav
+📧 rahulyadav16502@gmail.com
 
-Your Name
-💼 Portfolio
-
-📧 your-email@example.com
