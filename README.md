@@ -3,7 +3,7 @@
 A modern and responsive Landing Page built using HTML5 and CSS3.
 Designed to highlight a product, portfolio, or service with a clean and minimal layout.
 
-🚀 Live Demo
+# 🚀 Live Demo
 
 🔗 View Demo
 
@@ -14,7 +14,7 @@ Designed to highlight a product, portfolio, or service with a clean and minimal 
 
 (Add your project screenshot here)
 
-✨ Features
+# ✨ Features
 
 Fully Responsive for all screen sizes
 
@@ -28,7 +28,7 @@ Easy to customize: text, colors, and layout
 
 Lightweight and Fast-loading (pure HTML + CSS)
 
-🧰 Tech Stack
+# 🧰 Tech Stack
 
 HTML5
 
@@ -48,7 +48,7 @@ or use a local server:
 
 npx live-server
 
-🧩 Folder Structure
+# 🧩 Folder Structure
 📁 Landing-Page/
 │
 ├── index.html
@@ -59,7 +59,7 @@ npx live-server
 │       └── preview.png
 └── README.md
 
-🎨 Customization
+# 🎨 Customization
 
 Update text content in index.html
 
@@ -80,9 +80,7 @@ Create your feature branch
 
 Submit a pull request
 
-📜 License
 
-This project is released under the MIT License — feel free to use and modify it.
 
 👨‍💻 Author
 
