@@ -45,11 +45,8 @@ npx live-server
 📁 Landing-Page/
 │
 ├── index.html
-├── css/
-│   └── style.css
-├── assets/
-│   └── images/
-│       └── preview.png
+│── style.css
+│── preview.png
 └── README.md
 
 # 🎨 Customization
@@ -67,8 +64,6 @@ Add your social or contact links in the footer
 Contributions are always welcome!
 If you’d like to improve this template:
 
-Fork the repo
-
 Create your feature branch
 
 Submit a pull request
@@ -76,6 +71,6 @@ Submit a pull request
 
 
 👨‍💻 Author
- Name -Rahul Yadav
+ Name -Rahul yadav
 📧 rahulyadav16502@gmail.com
 
