@@ -66,7 +66,6 @@ If you’d like to improve this template:
 
 Create your feature branch
 
-Submit a pull request
 
 
 
